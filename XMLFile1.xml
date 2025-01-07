@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>w.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText>technology</AlternateText>
+		<keyword>asp.net,C#</keyword>
+		<Impression>1</Impression>
+	</Ad>
+	<Ad>
+		<ImageUrl>3.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText>technology</AlternateText>
+		<keyword>asp.net,C#</keyword>
+		<Impression>1</Impression>
+	</Ad>
+</Advertisements> 

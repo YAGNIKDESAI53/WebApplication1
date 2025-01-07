@@ -9,8 +9,17 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Hello Jay
         </div>
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <br />
+        <p>
+            <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
+            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+        </p>
+        <p>
+            &nbsp;</p>
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
     </form>
 </body>
 </html>
